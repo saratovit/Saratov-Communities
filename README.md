@@ -8,3 +8,4 @@ Information about IT communities of Saratov. Chats, publics, events, conferences
 - DuneCamp IT festival [#DuneCamp](https://t.me/dune_camp)
 - Youcon IT conference [Конференция Юкон](https://t.me/youcon)
 - Ottepel IT hackathon [Хакатон "Оттепель" рабочее обсуждение](https://t.me/ottepelhack)
+- ios community [ios Saratov](https://t.me/iosSaratov)
