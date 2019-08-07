@@ -3,20 +3,20 @@ Information about IT communities of Saratov. Chats, publics, events, conferences
 
 # Каналы
 
-- [https://t.me/saratovit](@saratovit) - канал со свежими новости из мира ИТ региона
-- [https://t.me/ottepelhack_news](@ottepelhack_news) - только новости хакатона Оттепель, канал
-- [https://t.me/dunecamp_news](@dunecamp_news) - канал со свежими новости из мира ИТ региона
-- [https://t.me/youcon_news](@youcon_news) - канал со свежими новости из мира ИТ региона
+- [@saratovit](https://t.me/saratovit]) - канал со свежими новости из мира ИТ региона
+- [@ottepelhac_news](https://t.me/ottepelhack_news) - только новости хакатона Оттепель, канал
+- [@dunecamp_news](https://t.me/dunecamp_news) - канал со свежими новости из мира ИТ региона
+- [@youcon_news](https://t.me/youcon_news) - канал со свежими новости из мира ИТ региона
 
 # Чаты
-- [https://t.me/saratovit_talks](@saratovit_talks) - ИТ болталка (чат обо всём)
-- [https://t.me/ottepelhack](@ottepelhack) - чат хакатонщиков "Оттепель"
-- [https://t.me/dunecamp](@dunecamp) - чат участников летнего лагеря Дюна
-- [https://t.me/youcon](@youcon) - крупнейшая бесплатная конфереция Юкон
-- [https://t.me/blockchainsaratov](@blockchainsaratov) - чат по технологиям Blockchain
-- [https://t.me/devopssaratov](@devopssaratov) - сообщество DevOps инженеров в Саратове
-- [https://t.me/iossaratov](@iossaratov) - мобильная разработка под ios
-- [https://t.me/pythonsaratov](@pythonsaratov) - саратовское сообщество разработчиков на Python
-- [https://t.me/datasciencesaratov](@datasciencesaratov) - чат по Data Science
-- [https://t.me/qasaratov](@qasaratov) - QA Community Saratov
+- [@saratovit_talks](https://t.me/saratovit_talks) - ИТ болталка (чат обо всём)
+- [@ottepelhack](https://t.me/ottepelhack) - чат хакатонщиков "Оттепель"
+- [@dunecamp](https://t.me/dunecamp) - чат участников летнего лагеря Дюна
+- [@youcon](https://t.me/youcon) - крупнейшая бесплатная конфереция Юкон
+- [@blockchainsaratov](https://t.me/blockchainsaratov) - чат по технологиям Blockchain
+- [@devopssaratov](https://t.me/devopssaratov) - сообщество DevOps инженеров в Саратове
+- [@iossaratov](https://t.me/iossaratov) - мобильная разработка под ios
+- [@pythonsaratov](https://t.me/pythonsaratov) - саратовское сообщество разработчиков на Python
+- [@datasciencesaratov](https://t.me/datasciencesaratov) - чат по Data Science
+- [@qasaratov](https://t.me/qasaratov) - QA Community Saratov
 
