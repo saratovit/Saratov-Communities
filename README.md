@@ -5,8 +5,8 @@ Information about IT communities of Saratov. Chats, publics, events, conferences
 
 - [@saratovit](https://t.me/saratovit) - канал со свежими новости из мира ИТ региона
 - [@ottepelhack_news](https://t.me/ottepelhack_news) - только новости хакатона Оттепель, канал
-- [@dunecamp_news](https://t.me/dunecamp_news) - канал со свежими новости из мира ИТ региона
-- [@youcon_news](https://t.me/youcon_news) - канал со свежими новости из мира ИТ региона
+- [@dunecamp_news](https://t.me/dunecamp_news) - канал с новостями [летнего лагеря Дюна](https://dunecamp.ru)
+- [@youcon_news](https://t.me/youcon_news) - канал новостей конференции Юкон
 
 # Чаты
 - [@saratovit_talks](https://t.me/saratovit_talks) - ИТ болталка (чат обо всём)
