@@ -3,8 +3,8 @@ Information about IT communities of Saratov. Chats, publics, events, conferences
 
 # Каналы
 
-- [@saratovit](https://t.me/saratovit]) - канал со свежими новости из мира ИТ региона
-- [@ottepelhac_news](https://t.me/ottepelhack_news) - только новости хакатона Оттепель, канал
+- [@saratovit](https://t.me/saratovit) - канал со свежими новости из мира ИТ региона
+- [@ottepelhack_news](https://t.me/ottepelhack_news) - только новости хакатона Оттепель, канал
 - [@dunecamp_news](https://t.me/dunecamp_news) - канал со свежими новости из мира ИТ региона
 - [@youcon_news](https://t.me/youcon_news) - канал со свежими новости из мира ИТ региона
 
