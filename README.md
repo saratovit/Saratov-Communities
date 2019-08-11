@@ -19,4 +19,6 @@ Information about IT communities of Saratov. Chats, publics, events, conferences
 - [@pythonsaratov](https://t.me/pythonsaratov) - саратовское сообщество разработчиков на Python
 - [@datasciencesaratov](https://t.me/datasciencesaratov) - чат по Data Science
 - [@qasaratov](https://t.me/qasaratov) - QA Community Saratov
+- [@javasaratov](https://t.me/javasaratov) - чат по Java
+- [@cppsaratov](https://t.me/cppsaratov) - чат по С++
 
